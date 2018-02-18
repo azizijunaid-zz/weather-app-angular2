@@ -1,0 +1,10 @@
+
+.menu {
+    background: skyblue;
+    padding: 20px;
+    margin: 0;
+}
+
+.menu a{
+    padding: 20px;
+}
